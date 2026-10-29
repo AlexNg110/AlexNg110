@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="./profile.png"
-    alt="Profile picture"
-    width="150"
-    height="150"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</p>
-
 <h1 align="center">Hi, I'm Uyen Nguyen</h1>
 
 <p align="center">
