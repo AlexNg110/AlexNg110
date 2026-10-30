@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Turning data into insights and insights into better decisions.
+  Turning data into insights and insights into better decisions
 </p>
 
 </p>
@@ -23,15 +23,19 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 
 ## Tech Stack
 
-**Data Analysis**
+**Data Analysis & Data Transformation**
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Databases & Visualization**
+**Data Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
 
 ## Featured Projects
 
