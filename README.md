@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Uyen Nguyen</h1>
 
 <p align="center">
-  <strong>Data Analyst | SQL • Excel • Data Visualization</strong>
+  <strong>Data Analyst | Excel • SQL • Data Visualization</strong>
 </p>
 
-<p align="center">
-  Turning data into insights and insights into better decisions
 </p>
 
 </p>
@@ -25,8 +23,19 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 
 **Data Analysis & Data Transformation**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- Excel       ▰ ▰ ▰ ▰ ▱ 4/5
+- SQL         ▰ ▰ ▰ ▱ ▱ 3/5
+
+- **Data Analysis & Data Transformation**
+
+- Excel
+  <br>
+  <img src="https://progress-bar.dev/80/?title=&width=200&color=2ea44f" />
+
+- SQL
+  <br>
+  <img src="https://progress-bar.dev/60/?title=&width=200&color=2ea44f" />
+
 
 **Data Visualization**
 
@@ -34,7 +43,7 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 
 **Databases**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MSSQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 
 ## Featured Projects
