@@ -70,6 +70,8 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=AlexNg110&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/uyen-n-0b370b1b3)
