@@ -19,6 +19,16 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 - Building projects to strengthen my analytical skills
 - Continuously learning new tools and techniques
 
+Detail-oriented and growth-minded Clinical Data Manager and Data Analyst with 4+ years of experience in clinical trial and academic research data, alongside 8+ years of experience in multilingual and cross-industry environments. Passionate about transforming data into meaningful insights through analytical thinking, problem-solving, and continuous learning.
+
+Skills & Tools
+
+Data Analysis & Transformation: Excel, Power Query, SQL, R
+Data Visualization: Power BI
+Microsoft Power Platform: Power Apps, Power Automate
+Research & Data Management: Clinical Trial Data Management, Research Data Management
+Other Skills: Analytical Thinking, Problem-Solving, Reporting
+
 ## Tech Stack
 
 **Data Analysis & Data Transformation**
